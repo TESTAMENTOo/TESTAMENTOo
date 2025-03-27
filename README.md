@@ -15,7 +15,7 @@ Puedes seguirme o contactarme a través de las siguientes redes sociales:
 
 ¡Estoy siempre abierto a nuevas colaboraciones, proyectos y aprender de otros artistas!
 
-![Maya]([https://images.seeklogo.com/logo-png/30/1/autodesk-maya-logo-png_seeklogo-308077.png](https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/02/broly-dbz.jpg))
+![Maya](https://images.seeklogo.com/logo-png/30/1/autodesk-maya-logo-png_seeklogo-308077.png](https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/02/broly-dbz.jpg)
 
 ---
 
