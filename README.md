@@ -4,7 +4,7 @@ Soy un estudiante de **Animación 2D** y **Diseño Gráfico**. Me apasiona crear
 
 ## 🚀 Habilidades.
 - **Diseño Gráfico**: Creación de assets, personajes, y fondos.
-- **Software**: Adobe Indesign, Photoshop, Premiere, eMaya y Blender.
+- **Software**: Adobe Indesign, Photoshop, Premiere, Substance, Maya y Blender.
 
 ## 📫 Conéctame
 Puedes seguirme o contactarme a través de las siguientes redes sociales:
