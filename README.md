@@ -15,6 +15,8 @@ Puedes seguirme o contactarme a través de las siguientes redes sociales:
 
 ¡Estoy siempre abierto a nuevas colaboraciones, proyectos y aprender de otros artistas!
 
+![Maya](https://images.seeklogo.com/logo-png/30/1/autodesk-maya-logo-png_seeklogo-308077.png)
+
 ---
 
 ¡Gracias por visitar mi perfil! 🌟
