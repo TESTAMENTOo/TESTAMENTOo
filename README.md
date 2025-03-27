@@ -3,7 +3,7 @@
 Soy un estudiante de **Animación 2D** y **Diseño Gráfico**. Me apasiona crear contenido visualmente atractivo y contar historias a través del arte digital. Estoy aprendiendo y mejorando constantemente en el mundo de la animación y el diseño, y me encanta experimentar con nuevas ideas y técnicas.
 
 ## 🚀 Habilidades.
-- **Diseño Gráfico**: Creación de assets, personajes, y fondos.
+- **Diseño Gráfico**: Creación de assets, personajes, y escenarios.
 - **Software**: Adobe Indesign, Photoshop, Premiere, Substance, Maya y Blender.
 
 ## 📫 Conéctame
